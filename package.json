@@ -1,0 +1,30 @@
+{
+  "name": "exam1-submission-bkitano",
+  "version": "1.0.0",
+  "description": "If you are reading this, it is likely because you accepted the GitHub invitation to this exam starter code. When you accept that invitation, it creates a repo on GitHub that has the permissions set up such that it is easy for me to grade your exam.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yale-cpsc-213/exam1-submission-bkitano.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yale-cpsc-213/exam1-submission-bkitano/issues"
+  },
+  "homepage": "https://github.com/yale-cpsc-213/exam1-submission-bkitano#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "handlebars": "^4.0.6",
+    "hapi": "^16.1.0",
+    "hapi-postgres-connection": "^6.1.0",
+    "inert": "^4.1.0",
+    "js-sha1": "^0.4.1",
+    "nodemon": "^1.11.0",
+    "vision": "^4.1.1"
+  }
+}
